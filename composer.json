@@ -50,9 +50,9 @@
   "require": {
     "php": "^7.1|^8.0",
     "psr/container": "^1.0",
-    "illuminate/support": "^5.0",
-    "illuminate/contracts": "^5.0",
-    "illuminate/bus": "^5.0",
+    "illuminate/support": "^8.0",
+    "illuminate/contracts": "^8.0",
+    "illuminate/bus": "^8.0",
     "prooph/event-sourcing": "^5.0",
     "prooph/event-store": "^7.0",
     "prooph/event-store-bus-bridge": "dev-feature/php8",
